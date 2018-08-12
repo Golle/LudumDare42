@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58a82fab96e999c48b6a4e0343d48a02, type: 3}
+  m_Name: Walking State
+  m_EditorClassIdentifier: 
+  _transitions:
+  - {fileID: 11400000, guid: 3a1437a84d0690242b3a76eb58682880, type: 2}
+  _actions:
+  - {fileID: 11400000, guid: 1b79e1562ddb50d43b1e191b059f3ceb, type: 2}

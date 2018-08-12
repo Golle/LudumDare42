@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41aa3aaed9e8d524282b725228ad4745, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  _name: First level!
+  _level:
+  - _items: {fileID: 11400000, guid: 0855ae6ff8b8fae439cb08d21f2a32ba, type: 2}
+    _timeBetweenRounds: 20
+    _rounds: 2
+    _minItems: 3
+    _maxItems: 5
+  - _items: {fileID: 11400000, guid: 0855ae6ff8b8fae439cb08d21f2a32ba, type: 2}
+    _timeBetweenRounds: 19
+    _rounds: 3
+    _minItems: 4
+    _maxItems: 6
+  - _items: {fileID: 11400000, guid: 0855ae6ff8b8fae439cb08d21f2a32ba, type: 2}
+    _timeBetweenRounds: 18
+    _rounds: 4
+    _minItems: 5
+    _maxItems: 7
+  - _items: {fileID: 11400000, guid: 0855ae6ff8b8fae439cb08d21f2a32ba, type: 2}
+    _timeBetweenRounds: 17
+    _rounds: 4
+    _minItems: 6
+    _maxItems: 8
+  - _items: {fileID: 11400000, guid: 0855ae6ff8b8fae439cb08d21f2a32ba, type: 2}
+    _timeBetweenRounds: 16
+    _rounds: 4
+    _minItems: 7
+    _maxItems: 9
